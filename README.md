@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Kennedy Mutua and I love to code! 👋
+
+
+React Frontend Developer with over 7 years of experience, passionate about delivering high-quality, responsive and user-friendly applications. Proficient in Javascript, Typescript, NextJs, Redux and Redux Toolkit, and a wide range of frontend technologies.
+
+Started my journey as a .Net developer, I later found my true calling in web development and have been honing my skills ever since. I believe in writing clean, maintainable and scalable code and I strive to always stay up-to-date with the latest web development trends and technologies.
+
+When I'm not coding, I enjoy hiking, weightlifting and playing guitar as a member of the band Infinite Worshippers. I am always looking for new challenges and opportunities to grow and improve as a developer.
+
+Check out my portfolio at [kennyd.dev](https://kennyd.dev) to see some of my recent projects and contributions.
+
 
 <!--
 **alphakex2/alphakex2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
