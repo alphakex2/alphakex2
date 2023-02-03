@@ -1,7 +1,7 @@
 ### Hi there, I'm Kennedy Mutua and I love to code! 👋
 
 
-React Frontend Developer with over 7 years of experience, passionate about delivering high-quality, responsive and user-friendly applications. Proficient in Javascript, Typescript, NextJs, Redux and Redux Toolkit, and a wide range of frontend technologies.
+React and React Native Frontend Developer with over 7 years of experience, passionate about delivering high-quality, responsive and user-friendly applications. Proficient in Javascript, Typescript, NextJs, Redux and Redux Toolkit, and a wide range of frontend technologies.
 
 Started my journey as a .Net developer, I later found my true calling in web development and have been honing my skills ever since. I believe in writing clean, maintainable and scalable code and I strive to always stay up-to-date with the latest web development trends and technologies.
 
