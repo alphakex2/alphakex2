@@ -38,7 +38,7 @@
 ---
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/kennedy-mutua-1a5a2756/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)]([https://www.linkedin.com/in/kennedy-mutua-1a5a275](https://www.linkedin.com/in/kennedy-mutua-1a5a2756/))
 
 
 ---
