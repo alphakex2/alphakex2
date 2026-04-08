@@ -8,11 +8,11 @@
 
 I architect and ship production systems end-to-end — from database design and API architecture to real-time frontends. I care about clean data models, zero-trust security, and UIs that feel instant.
 
-- Led **Spinbet** migration from legacy ASP to a modern CMS-driven platform with real-time features, multi-language support, and performance optimized for high traffic
-- Architected **multi-tenant management systems** with role-based access, real-time dashboards, and scalable APIs
-- Built **custom component libraries** (Storybook) to accelerate development and enforce design consistency
+- Migrated **legacy platforms to modern stacks** — CMS-driven architectures with real-time features, i18n, and high-traffic performance
+- Architected **multi-tenant systems** with role-based access, real-time dashboards, and scalable APIs
+- Built **shared component libraries** (Storybook) to accelerate development and enforce design consistency
 - Delivered **native-like PWAs** with offline support, responsive design, and smooth transitions
-- Designed **Partner API systems** with bcrypt key authentication, webhook integrations, and comprehensive audit logging
+- Designed **API platforms** with key-based authentication, outbound webhooks, and comprehensive audit logging
 
 ---
 
