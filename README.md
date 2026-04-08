@@ -72,6 +72,13 @@ I architect and ship production systems end-to-end — from database design and 
 ![Stack Auth](https://img.shields.io/badge/-Stack%20Auth-1a1a2e?logoColor=white&style=flat)
 ![Zod](https://img.shields.io/badge/-Zod-3E67B1?logo=zod&logoColor=white&style=flat)
 
+### AI-Augmented Development
+
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97706?logo=anthropic&logoColor=white&style=flat)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?logo=cursor&logoColor=white&style=flat)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white&style=flat)
+![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?logo=openai&logoColor=white&style=flat)
+
 ---
 
 ## What I Do Well
@@ -83,6 +90,8 @@ I architect and ship production systems end-to-end — from database design and 
 **Developer Experience** — Component libraries, type-safe APIs, comprehensive documentation, clean git history
 
 **Performance** — Request-scoped caching, hash-based lookups on encrypted data, lazy-loaded pages, fixed-layout tables
+
+**AI-Augmented Engineering** — Proficient in leveraging AI tools (Claude Code, Cursor, Copilot) as force multipliers for architecture planning, code generation, codebase audits, and large-scale refactors — while maintaining full ownership of quality, security, and design decisions
 
 ---
 
